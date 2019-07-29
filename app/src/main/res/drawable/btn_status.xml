@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Este arquivo seleciona qual drawable para cada status do botao -->
+
+    <item   android:state_pressed="true" android:drawable="@drawable/btn_rounded_pressed"></item>
+
+
+    <item android:drawable="@drawable/btn_rounded"> </item>
+
+</selector>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Cores geradas a partir do color design tool do Material desing-->
+    <!--Estas cores serão enviadas para todos os objetos e telas deste app.  -->
+    <color name="colorPrimary">#f57c00</color>
+    <color name="colorPrimaryDark">#ffad42</color>
+    <color name="colorAccent">#bb4d00</color>
+
+    <!--Cor padrão para texto, caso seja necessário alterar, alteramos aqui e mudamos para todos os texviews que usam estas cores -->
+    <color name="standardTextBlack">#000000</color>
+    <color name="standardTextWhite">#FFFFFF</color>
+
+
+</resources>

@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">WelcomeActivity</string>
+    <string name="txt_subtitle">Android Samples</string>
+    <string name="txt_start">Iniciar</string>
+    <string name="change_photo">Alterar\n Imagem</string>
+    <string name="hint_name">Digite seu Nome</string>
+    <string name="masculino">Masculino</string>
+    <string name="feminino">Feminino</string>
+    <string name="text_notification">Quer receber notificações?</string>
+    <string name="aceito_termos_de_uso">Aceita os termos de uso?</string>
+    <string name="text_sim">Sim</string>
+    <string name="enviar">Enviar</string>
+    <string name="trocar_foto">Trocar Foto.</string>
+</resources>
